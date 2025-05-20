@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-> **"Pushing Boundaries of Android development, A Digital Nomad. Converting impossible to I AM Possible"**
+> **"A Digital Nomad. Converting impossible to I AM Possible"**
 
 With over 7 years of experience in Android development specializing in payment solutions and NFC technology. Currently working as a **Technical Lead (R&D)** at **Ingenico International India Pvt Ltd**, enhancing commerce experiences through advanced payment solutions.
 
@@ -41,20 +41,20 @@ Experienced Technical Lead with expertise in:
 
 - **First in APAC** to develop NFC Based P2P Payment System
 - **AIR 7** at Smart India Hackathon (SIH) with ISRO (Indian Space Research Organisation)
-- Created open-source SDKs used by major FinTech companies like Amazon, PayTM, and MasterCard
+- Created open-source SDKs used by major FinTech companies
 
 ## 🔭 Open Source Projects
 
-### [APDU Handler SDK](https://github.com/hpkaushik121/apdu-handler-sdk)
-Helper SDK for Android Devices to communicate with Card Systems. This SDK simplifies the APDU (Application Protocol Data Unit) communication process between Android devices and NFC cards.
+### [ISO8583Studio](https://github.com/hpkaushik121/aIso8583studio)
+ISO8583Studio is a modern, cross-platform tool designed for financial message testing, simulation, and development. It provides a comprehensive environment for working with ISO8583 financial transaction messages.
 
 **Key Features:**
-- Simplified API for card communication
-- Support for EMV standards
-- Used by major FinTech companies (Amazon, PayTM, MasterCard) as legacy code
+- Easily simulate financial hosts to test payment applications and gateways
+- Full control over ISO8583 field definitions and values
+- Intercept and modify messages in real-time between client and server
 - Cross-platform compatibility
 
-### [Android Animatables](https://github.com/hpkaushik121/android-animatables)
+### [Android Animatables](https://github.com/hpkaushik121/Android_Animatable)
 Helper classes to animate Jetpack Compose components with ease. This library makes complex animations in Compose simple and intuitive.
 
 **Key Features:**
@@ -76,7 +76,7 @@ Helper classes to animate Jetpack Compose components with ease. This library mak
 - Managed Card Management Systems including creation of personalized cards
 
 ### Sr. Software Engineer | PayU Payments Pvt. Ltd
-*Aug 2022 - Aug 2023 | India → Portugal → Ireland*
+*Aug 2022 - Aug 2023 | Gurgaon, India*
 - Contributed to PayU's suite of Android SDKs (VSC, Checkout Pro, etc.)
 - Collaborated with product teams, merchants, and payment gateways
 
